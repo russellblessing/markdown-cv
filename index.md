@@ -493,6 +493,7 @@ D. M. Whipp, T. A. Ehlers, A. E. Blythe, and D. W. Burbank. Constraining the Tec
 `2013-2016`
 **Judge**, *Outstanding Student Paper Awards, American Geophysical Union Fall Meeting*, San Francisco, CA, USA.<br/>
 Did not attend/judge in 2015
+
 <!--
 `2013-2015`
 **Scientific expert in review panel**, *Fennovoima nuclear power company*, Helsinki, Finland.
