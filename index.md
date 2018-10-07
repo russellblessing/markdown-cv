@@ -45,8 +45,10 @@ FI-00014 University of Helsinki, Finland<br/>
 `2008-2009`
 **Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
 
+<!--
 `2007`
 **Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
+-->
 
 `2003-2008`
 **Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
