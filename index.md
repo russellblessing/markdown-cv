@@ -160,10 +160,12 @@ Now: Geologist, Pöyry Finland Oy
 **Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Jorina Schütt
 
+<!--
 ### Visiting researchers
 
 `2017-present`
 **Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
+-->
 
 ### Supervisory committee
 
@@ -540,6 +542,7 @@ Did not attend/judge in 2015
 `2007-2008`
 **Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
 
+<!--
 ## Community outreach
 
 `2015`
@@ -553,6 +556,7 @@ Presentation on mountain systems to the audience of undergraduate students prese
 `2007`
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
 Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
+-->
 
 <!--
 ## Languages
