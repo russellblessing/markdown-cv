@@ -172,7 +172,7 @@ Co-supervised with Jorina Schütt
 Now: Imperial Oil, Canada
 
 `2012–2015`
-**Gabe Creason**, *Masters student, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
+**Gabe Creason**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
 Now: Ph.D. student, Oregon State University
 
 `2011–2014`
