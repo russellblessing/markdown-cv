@@ -28,7 +28,7 @@ FI-00014 University of Helsinki, Finland<br/>
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
-## Experience
+## Experience (selected)
 
 `2017-present`
 **Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -51,9 +51,150 @@ FI-00014 University of Helsinki, Finland<br/>
 `2003-2008`
 **Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
+<!--
 `2000-2002`
 **Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
+-->
 
+## Teaching
+
+Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
+
+### Main courses
+
+`2013-present`
+*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+- \- Current Topics in Global Geophysics Research
+- \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
+- \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
+- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
+
+### Short courses
+
+`2017`
+**Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
+Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren.
+
+`2016`
+**Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
+Co-taught with Lars Kaislaniemi
+
+`2015`
+**Software Carpentry Bootcamp**, *University of Helsinki*, Helsinki, Finland. <a href="https://cbig.github.io/2015-11-25-helsinki/"><i class="fas fa-home"></i></a><br/>
+Co-taught with Joona Lehtomäki
+
+**Introduction to Lithospheric Geodynamics**, *Geological Survey of Finland*, Espoo, Finland.<br/>
+Co-taught with Lars Kaislaniemi
+
+### Guest lectures
+
+`2015-present`
+**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2010, 2019`
+**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+
+### Assistant teaching
+
+`2003–2007`
+*Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
+
+- \- Earth Surface Processes and Soils laboratory
+- \- Geology of the Rockies, University of Michigan Camp Davis, WY, USA
+- \- Introduction to Geology laboratory/discussion
+- \- Introduction to Oceanography laboratory
+
+## Formal pedagogical training
+`2008`
+*Preparing Future Faculty seminar*, Center for Research on Learning and Teaching, University of Michigan, Ann Arbor, MI, USA
+
+`2007`
+*Observing Classes and Conducting Midterm Student Feedbacks*, Center for Research on Learning and Teaching, University of Michigan, Ann Arbor, MI, USA
+
+`2003`
+*Graduate Student Intructor teaching orientation*, Department of Geological Sciences, University of Michigan, Ann Arbor, MI, USA
+
+## Supervision
+
+### Postdoctoral researchers
+
+`2015-2018`
+**[Lars Kaislaniemi](http://kaislaniemi.net/)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+### Doctoral students
+
+`2017-present`
+**Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
+Co-supervised with Todd Ehlers
+
+`2014-2018`
+**Jorina Schütt**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+### Masters students
+
+`2018-present`
+**Aleksi Rantanen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2017-present`
+**Nelli Metiäinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+**Lotta Ylä-Mella**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Ilmo Kukkonen
+
+`2014-2016`
+**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+Now: Geologist, Pöyry Finland Oy
+
+### Bachelors theses
+
+`2016–2018`
+**Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+
+`2016–2017`
+**Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Jorina Schütt
+
+### Visiting researchers
+
+`2017-present`
+**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
+
+### Supervisory committee
+
+`2011–2016`
+**Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
+Now: Imperial Oil, Canada
+
+`2012–2015`
+**Gabe Creason**, *Masters student, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
+Now: Ph.D. student, Oregon State University
+
+`2011–2014`
+**Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+
+### Undergraduate research
+`2017-present`
+**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+
+`2016`
+**Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
+
+`2014`
+**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2006–2008`
+**Chris Spath**, *Department of Electrical Engineering and Computer Science, University of Michigan*, Ann Arbor, MI, USA.<br/>
+Co-supervised with Todd Ehlers
+
+`2004`
+**Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
+Co-supervised with Todd Ehlers
+
+<!--
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
@@ -137,8 +278,9 @@ Nested DOUAR: Coupling high and low resolution finite element models to solve 3D
 `2012`
 **Compute Canada National Resource Allocation**, *Compute Canada*, Toronto, ON, Canada, 109 core-years. Co-PI with J. Allen and C. Beaumont.<br/>
 Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt to the Himalayan peaks
+-->
 
-## Awards and honors
+## Awards and honors (selected)
 
 `2014`
 **Exceptional Reviewer for journal** *Lithosphere*, *Geological Society of America*.
@@ -148,12 +290,15 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 **Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
+<!--
 `2006`
 **Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
 
 `2003`
 **Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+-->
 
+<!--
 ## Invited talks
 
 `2018`
@@ -262,7 +407,7 @@ I. Kukkonen, E. Koivisto, and **D. M. Whipp**. Helsinki University Kumpula Campu
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
 **D. M. Whipp**. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
-
+-->
 <!--
 `2015 (2)`
 I. Coutand, D. M. Whipp, B. Bookhagen, and D. Grujic. Impact of Drainage Basin Geology and Geomorphology on Detrital Thermochronometric Data from Modern River Sands: A Case Study in the Bhutan Himalaya. Abstract T24B-04 presented at 2015 Fall Meeting, AGU, San Francisco, Calif., USA, 14–18 December, 2015 (invited).
@@ -340,135 +485,7 @@ D. M. Whipp, Jr., T. A. Ehlers, A. E. Blythe, K. W. Ruhl, K. V. Hodges, and D. W
 D. M. Whipp, T. A. Ehlers, A. E. Blythe, and D. W. Burbank. Constraining the Tectonic History of the Himalaya in Central Nepal with Low-Temperature Thermochronometry and Numerical Modeling. Eos Trans. AGU, 85(47), Fall Meet. Suppl., Abstract T31B-1308, 2004
 -->
 
-## Teaching
-
-Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
-
-### Main courses
-
-`2013-present`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
-- \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
-- \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
-
-### Short courses
-
-`2017`
-**Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
-Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren.
-
-`2016`
-**Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
-Co-taught with Lars Kaislaniemi
-
-`2015`
-**Software Carpentry Bootcamp**, *University of Helsinki*, Helsinki, Finland. <a href="https://cbig.github.io/2015-11-25-helsinki/"><i class="fas fa-home"></i></a><br/>
-Co-taught with Joona Lehtomäki
-
-**Introduction to Lithospheric Geodynamics**, *Geological Survey of Finland*, Espoo, Finland.<br/>
-Co-taught with Lars Kaislaniemi
-
-### Guest lectures
-
-`2015-present`
-**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2010`
-**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-### Assistant teaching
-
-`2003–2007`
-*Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
-
-- \- Earth Surface Processes and Soils laboratory
-- \- Geology of the Rockies, University of Michigan Camp Davis, WY, USA
-- \- Introduction to Geology laboratory/discussion
-- \- Introduction to Oceanography laboratory
-
-## Supervision
-
-### Postdoctoral researchers
-
-`2015-2018`
-**[Lars Kaislaniemi](http://kaislaniemi.net/)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Doctoral students
-
-`2017-present`
-**Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
-Co-supervised with Todd Ehlers
-
-`2014-2018`
-**Jorina Schütt**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Masters students
-
-`2018-present`
-**Aleksi Rantanen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2017-present`
-**Nelli Metiäinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-**Lotta Ylä-Mella**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Ilmo Kukkonen
-
-`2014-2016`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Now: Geologist, Pöyry Finland Oy
-
-### Bachelors theses
-
-`2016–2018`
-**Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016–2017`
-**Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jorina Schütt
-
-### Visiting researchers
-
-`2017-present`
-**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
-
-### Supervisory committee
-
-`2011–2016`
-**Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Imperial Oil, Canada
-
-`2012–2015`
-**Gabe Creason**, *Masters student, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Ph.D. student, Oregon State University
-
-`2011–2014`
-**Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-### Undergraduate research
-`2017-present`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016`
-**Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
-
-`2014`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2006–2008`
-**Chris Spath**, *Department of Electrical Engineering and Computer Science, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-`2004`
-**Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-## Professional service
+## Professional service (selected)
 
 `2016-2018`
 **Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
@@ -476,7 +493,7 @@ Co-supervised with Todd Ehlers
 `2013-2016`
 **Judge**, *Outstanding Student Paper Awards, American Geophysical Union Fall Meeting*, San Francisco, CA, USA.<br/>
 Did not attend/judge in 2015
-
+<!--
 `2013-2015`
 **Scientific expert in review panel**, *Fennovoima nuclear power company*, Helsinki, Finland.
 
@@ -486,26 +503,26 @@ Did not attend/judge in 2015
 **Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
 
 **Research project proposals**: German Science Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
-
+-->
 ## University service
 
 `2018-present`
 **Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
-
+<!--
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
-
+-->
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
+<!--
 `2013-present`
 **Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
+-->
 `2017-2018`
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
-
+<!--
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
+-->
 `2014-2016`
 **Co-coordinator of Solid Earth Geophysics Masters program**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
@@ -525,7 +542,7 @@ Presentation on mountain systems to the audience of undergraduate students prese
 `2007`
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
 Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
-
+<!--
 ## Languages
 
 English: Native
@@ -554,8 +571,8 @@ Citizenship: USA
 Residence: Finland (Permanent resident)
 
 Family: Married, two children
+-->
 
-
-<br/>Last updated: September 2018<br/><br/>
+<br/>Last updated: October 2018<br/><br/>
 
 
