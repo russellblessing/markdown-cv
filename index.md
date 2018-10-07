@@ -108,15 +108,15 @@ Co-taught with Lars Kaislaniemi
 - \- Introduction to Geology laboratory/discussion
 - \- Introduction to Oceanography laboratory
 
-## Formal pedagogical training
+## Pedagogical training
 `2008`
-*Preparing Future Faculty seminar*, Center for Research on Learning and Teaching, University of Michigan, Ann Arbor, MI, USA
+**Preparing Future Faculty seminar**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA
 
 `2007`
-*Observing Classes and Conducting Midterm Student Feedbacks*, Center for Research on Learning and Teaching, University of Michigan, Ann Arbor, MI, USA
+**Observing Classes and Conducting Midterm Student Feedbacks**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA
 
 `2003`
-*Graduate Student Intructor teaching orientation*, Department of Geological Sciences, University of Michigan, Ann Arbor, MI, USA
+**Graduate Student Intructor teaching orientation**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
 
 ## Supervision
 
