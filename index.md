@@ -488,6 +488,7 @@ D. M. Whipp, Jr., T. A. Ehlers, A. E. Blythe, K. W. Ruhl, K. V. Hodges, and D. W
 D. M. Whipp, T. A. Ehlers, A. E. Blythe, and D. W. Burbank. Constraining the Tectonic History of the Himalaya in Central Nepal with Low-Temperature Thermochronometry and Numerical Modeling. Eos Trans. AGU, 85(47), Fall Meet. Suppl., Abstract T31B-1308, 2004
 -->
 
+<!--
 ## Professional service (selected)
 
 `2016-2018`
@@ -497,7 +498,6 @@ D. M. Whipp, T. A. Ehlers, A. E. Blythe, and D. W. Burbank. Constraining the Tec
 **Judge**, *Outstanding Student Paper Awards, American Geophysical Union Fall Meeting*, San Francisco, CA, USA.<br/>
 Did not attend/judge in 2015
 
-<!--
 `2013-2015`
 **Scientific expert in review panel**, *Fennovoima nuclear power company*, Helsinki, Finland.
 
