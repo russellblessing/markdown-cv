@@ -408,6 +408,7 @@ J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning a
 
 **D. M. Whipp**. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 -->
+
 <!--
 `2015 (2)`
 I. Coutand, D. M. Whipp, B. Bookhagen, and D. Grujic. Impact of Drainage Basin Geology and Geomorphology on Detrital Thermochronometric Data from Modern River Sands: A Case Study in the Bhutan Himalaya. Abstract T24B-04 presented at 2015 Fall Meeting, AGU, San Francisco, Calif., USA, 14–18 December, 2015 (invited).
@@ -505,25 +506,32 @@ Did not attend/judge in 2015
 
 **Research project proposals**: German Science Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 -->
+
 ## University service
 
 `2018-present`
 **Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
+
 <!--
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 -->
+
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
 <!--
 `2013-present`
 **Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 -->
+
 `2017-2018`
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
+
 <!--
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 -->
+
 `2014-2016`
 **Co-coordinator of Solid Earth Geophysics Masters program**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
@@ -543,6 +551,7 @@ Presentation on mountain systems to the audience of undergraduate students prese
 `2007`
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
 Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
+
 <!--
 ## Languages
 
