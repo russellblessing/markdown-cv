@@ -2,7 +2,7 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
+# Russell Blessing
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
