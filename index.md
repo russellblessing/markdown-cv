@@ -15,7 +15,7 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
   <a href="https://github.com/russellblessing"><i class="fab fa-github"></i> russellblessing</a> - 
   <a href="https://orcid.org/0000-0003-4973-4032"><i class="ai ai-orcid"></i> 0000-0003-4973-4032</a> - 
   <a href="https://www.researchgate.net/profile/Russell-Blessing"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="[https://twitter.com/dave_whipp](https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en)"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> scholar</a>
 </div>
 
 ## Education
