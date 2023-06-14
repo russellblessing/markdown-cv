@@ -53,44 +53,43 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en).
 
 ### In review
 
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, in review.
-
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Lithosphere*, in review.
-
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, in review.
-
 ### Accepted/In press
 
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), accepted pending minor revision. 
+### Peer-Reviewed Journal Articles
+F. Yuan, C. C. Lee, W. Mobley, H. Farahmand, Y. Xu, **R. Blessing**, and S. D. Brody. Predicting road flooding risk with crowdsourced reports and fine-grained traffic data. *Computational Urban Science*, *3*(1):15, 2023.
 
-### Journals
+F. Yuan, H. Farahmand, **R. B. Blessing**, S. Brody, and A. Mostafavi. Unveiling Vulnerability and Inequality in Disrupted Access to Dialysis Centers During Urban Flooding. *arXiv preprint* arXiv:2208.09425, 2022.
 
-`2016`
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
+F. Yuan, W. Mobley, H. Farahmand, Y. Xu, **R. B. Blessing**, A. Motafavi, and S. Brody. Predicting Road Flooding Risk with Machine Learning Approaches Using Crowdsourced Reports and Fine-grained Traffic Data. *arXiv* 2108.13265, 2021.
 
-`2014`
-**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
+W. Mobley, A. Sebastian, **R. B. Blessing**, W. E. Highfield, L. Stearns, and S. D. Brody. Quantification of Continuous Flood Hazard using Random Forest Classification and Flood Insurance Claims at Large Spatial Scales: A Pilot Study in Southeast Texas. *Natural Hazards and Earth System Sciences Discussions*, 1-22, 2020.
 
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
+A. Sebastian, A. Gori, **R. B. Blessing**, K. van der Wiel, and B. Bass. Disentangling the Impacts of Human and Environmental Change on Catchment Response During Hurricane Harvey. *Environmental Research Letters*, *14*(12):124023, 2019.
 
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
+**R. B. Blessing**, S. D. Brody, and W. E. Highfield. Valuing Floodplain Protection and Avoidance in a Coastal Watershed. *Disasters*, *43*(4):906-925, 2019.
 
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
+A. Gori, **R. B. Blessing**, A. Juan, S. Brody, and P. B. Bedient. Characterizing Urbanization Impacts on Floodplain Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. *Journal of Hydrology*, *568*:82-95, 2019.
 
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
+S. D. Brody, A. Sebastian, **R. B. Blessing**, and P. Bedient. Case study results from southeast Houston, Texas: Identifying the impacts of residential location on flood risk and loss. *Journal of Flood Risk Management*, *11*:S110-S120, 2018.
 
-`2007`
-**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
+S. D. Brody, W. E. Highfield, **R. B. Blessing**, T. Makino, and C. Shepard. Evaluating the Effects of Open Space Configurations in Reducing Flood Damage along the Gulf of Mexico Coast. *Landscape & Urban Planning*, *167*:225-231, 2017.
 
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
+**R. B. Blessing**, A. Sebastian, and S. D. Brody. Flood Risk Delineation in the U.S.: How much loss are we capturing? *Natural Hazards Review*, *18*(3):04017002, 2017.
 
-**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
+S. D. Brody, W. E. Highfield, M. Wilson, M. K. Lindell, and **R. B. Blessing**. Understanding the Motivations of Coastal Residents to Voluntarily Purchase Federal Flood Insurance. *Journal of Risk Research*, *58*(1):1-16, 2017.
+
+S. D. Brody, W. E. Highfield, and **R. B. Blessing**. An Analysis of the Effects of Land Use and Land Cover on Flood Losses along the Gulf of Mexico Coast from 1999-2009. *Journal of the American Water Resources Association*, *51*(6):1556-1567, 2015.
+
+W. E. Highfield, S. D. Brody, and **R. B. Blessing**. Measuring Impact of Mitigation Activities on Flood Loss Reduction at the Parcel Level: The Case of the Clear Creek Watershed on the Upper Texas coast. *Natural Hazards*, *74*(2):687-704, 2014.
+
+S. D. Brody, **R. B. Blessing**, A. Sebastian, and P. B. Bedient. Examining the Impact of Land Use/Land Cover Characteristics on Flood Loss. *Journal of Environmental Management*, *57*(8):1-14, 2013.
+
+S. D. Brody, **R. B. Blessing**, A. Sebastian, and P. B. Bedient. Delineating the Reality of Flood Risk and Loss in Southeast Texas. *Natural Hazards Review*, *14*(2):89-97, 2012.
+
 
 ## Grants and funding
 
