@@ -1,23 +1,21 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Russell Blessing's CV
 ---
 # Russell Blessing
-Associate professor, University of Helsinki
+Research Manager, Texas A&M University
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Gustaf Hällströmin katu 2b)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Institute for a Disaster Resilient Texas, Division of Research<br/>
+4201 Main St, Houston, TX 77002<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="rblessing@tamu.edu">rblessing@tamu.edu</a>
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://idrt.tamug.edu/team/"><i class="fas fa-users"></i> Institute for a Disaster Resilient Texas</a><br/>
+  <a href="https://github.com/russellblessing"><i class="fab fa-github"></i> russellblessing</a> - 
+  <a href="https://orcid.org/0000-0003-4973-4032"><i class="ai ai-orcid"></i> 0000-0003-4973-4032</a> - 
+  <a href="https://www.researchgate.net/profile/Russell-Blessing"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
+  <a href="[https://twitter.com/dave_whipp](https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en)"><i class="fab fa-twitter"></i> @dave_whipp</a>
 </div>
 
 ## Education
