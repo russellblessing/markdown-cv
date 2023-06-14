@@ -14,189 +14,43 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
   <a href="https://idrt.tamug.edu/team/"><i class="fas fa-users"></i> Institute for a Disaster Resilient Texas</a><br/>
   <a href="https://github.com/russellblessing"><i class="fab fa-github"></i> russellblessing</a> - 
   <a href="https://orcid.org/0000-0003-4973-4032"><i class="ai ai-orcid"></i> 0000-0003-4973-4032</a> - 
-  <a href="https://www.researchgate.net/profile/Russell-Blessing"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
+  <a href="https://www.researchgate.net/profile/Russell-Blessing"><i class="ai ai-researchgate"></i> researchgate</a> - 
   <a href="https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> scholar</a>
 </div>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2013-2017`
+**Ph.D., Urban and Regional Science**, *Texas A&M University*, College Station, TX, USA.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2009-2011`
+**M.U.P., Urban Planning**, *Texas A&M University*, College Station, TX, USA.
+
+`2004-2008`
+**B.A., Environmental Studies (Biology minor)**, *Austin College*, Sherman, TX, USA.
 
 ## Experience (selected)
+`2021-Present`
+**Research Manager**, *Vice President for Research, Texas A&M University*, Institute for a Disaster Resilient Texas, TX, USA.
 
-`2017-present`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2019-2021`
+**Assistant Research Scientist**, *Department of Marine Sciences, Texas A&M University at Galveston*, Institute for a Disaster Resilient Texas, TX, USA.
 
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+`2018-2019`
+**Postdoctoral Researcher**, *Department of Marine Sciences, Texas A&M University at Galveston / Department of Civil & Hydraulic Engineering, Rice University*, TX, USA.
 
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+`2013-2017`
+**Research Assistant**, *Department of Marine Sciences, Texas A&M University at Galveston*, TX, USA.
 
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
+`2012-2013`
+**Research Associate**, *Center for Texas Beaches & Shores, Texas A&M University at Galveston*, TX, USA.
 
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
+`2011-2012`
+**Analyst**, *SSPEED Center, Rice University*, TX, USA.
 
-<!--
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
--->
+`2010-2012`
+**Research Assistant**, *Department of Landscape Architecture & Urban Planning, Texas A&M University*, TX, USA.
 
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-<!--
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
--->
-
-## Teaching
-
-Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
-
-### Main courses
-
-`2013-present`
-*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
-- \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
-- \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
-
-### Short courses
-
-`2017`
-**Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
-Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren.
-
-`2016`
-**Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
-Co-taught with Lars Kaislaniemi
-
-`2015`
-**Software Carpentry Bootcamp**, *University of Helsinki*, Helsinki, Finland. <a href="https://cbig.github.io/2015-11-25-helsinki/"><i class="fas fa-home"></i></a><br/>
-Co-taught with Joona Lehtomäki
-
-**Introduction to Lithospheric Geodynamics**, *Geological Survey of Finland*, Espoo, Finland.<br/>
-Co-taught with Lars Kaislaniemi
-
-### Guest lectures
-
-`2015-present`
-**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2010, 2019`
-**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-### Assistant teaching
-
-`2003–2007`
-*Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
-
-- \- Earth Surface Processes and Soils laboratory
-- \- Geology of the Rockies, University of Michigan Camp Davis, WY, USA
-- \- Introduction to Geology laboratory/discussion
-- \- Introduction to Oceanography laboratory
-
-## Pedagogical training
-`2008`
-**Preparing Future Faculty seminar**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA
-
-`2007`
-**Observing Classes and Conducting Midterm Student Feedbacks**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA
-
-`2003`
-**Graduate Student Intructor teaching orientation**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
-
-## Supervision
-
-### Postdoctoral researchers
-
-`2015-2018`
-**Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Doctoral students
-
-`2017-present`
-**Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
-Co-supervised with Todd Ehlers
-
-`2014-2018`
-**Jorina Schütt**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-### Masters students
-
-`2018-present`
-**Aleksi Rantanen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2017-present`
-**Nelli Metiäinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-**Lotta Ylä-Mella**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Ilmo Kukkonen
-
-`2014-2016`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Now: Geologist, Pöyry Finland Oy
-
-### Bachelors theses
-
-`2016–2018`
-**Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016–2017`
-**Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Jorina Schütt
-
-<!--
-### Visiting researchers
-
-`2017-present`
-**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
--->
-
-### Supervisory committee
-
-`2011–2016`
-**Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Imperial Oil, Canada
-
-`2012–2015`
-**Gabe Creason**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Ph.D. student, Oregon State University
-
-`2011–2014`
-**Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-### Undergraduate research
-`2017-present`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2016`
-**Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
-
-`2014`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2006–2008`
-**Chris Spath**, *Department of Electrical Engineering and Computer Science, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-`2004`
-**Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-<!--
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
