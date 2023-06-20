@@ -108,9 +108,11 @@ Urban and Regional Science Doctoral Departmental Scholarship
 3. Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
 
 ### Short Communications
+
 1. Blessing, R. B., & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
 
 ### Technical Reports & Professional Projects
+
 1. Rainey, J., Pandian, K., Stearns, L., Atoba, K., Mobley, W., Highfield, W., **Blessing, R. B.**, & Brody, S. (2021). Using 311-Call Data to Measure Flood Risk and Impacts: the case of Harris County TX. Texas A&M University. College Station, Texas.
 
 2. Sharp, J. (2018). Eye of the Storm: Report of the Governor’s Commission to Rebuild Texas. Texas A&M University. College Station, Texas. Contributing Author.
