@@ -111,7 +111,7 @@ Urban and Regional Science Doctoral Departmental Scholarship
 
 ### Short Communications
 
-1. Blessing, R. B., & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
+1. **Blessing, R. B.**, & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
 
 ### Technical Reports & Professional Projects
 
@@ -133,7 +133,7 @@ Urban and Regional Science Doctoral Departmental Scholarship
 
 9. Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
-## Conferences
+## Conference activity
 
 ### Proceedings
 *Conference Proceedings (*denotes speaker)
@@ -165,6 +165,69 @@ Urban and Regional Science Doctoral Departmental Scholarship
 2. Gori, A. & **Blessing, R. B.** (2017). Characterizing Urbanization Impacts on Floodplains Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. 2017 American Geophysical Union: Fall Meeting, New Orleans, LA.
 
 3. **Blessing, R. B.**, Makino, T., Doty, P., Brody, S. D., & Highfield, W. (2012). Examining the 100-Year Floodplain as a Metric of Risk, Loss, and Household Adjustment. 2012 NSF CMMI Engineering Research and Innovation Conference, "Engineering Transformations Through Partnerships," Boston, MA.
+
+## Expert Panels & Workshops
+1.	_Designing Comprehensive Solutions to Multiple Flooding Threats_. Institute for a Disaster Resilient Texas Spring Symposium. April 26, 2023. Galveston, TX.
+
+2.	_Recurring, Costly, and Avoidable – Changing Responses to Houston Flooding_. American Associated for the Advancement of Science. “Advancing Science – Discovery to Application”. February 15-19, 2018, Austin, TX.
+
+3.	_Framework for Flood Risk Reduction in the Galveston Bay Area_. Delft University of Technology & Texas A&M University at Galveston. December 14-16, 2014. Galveston, TX.  
+
+4. 	_Influence of Development Patterns on Flood Damages_. General Land Office Coastal Resiliency Forum. December 12, 2014.  Nassau Bay, TX.
+
+5.	_Flood Risk Reduction Colloquium_.  Delft University of Technology. July 22-25, 2013. Delft, Netherlands.
+
+6.	_Adaptation to Sea Level Rise: Minimizing Risk to the Built, Natural and Economic Environments along the Texas Gulf Coast_. The University of Texas Marine Science Institute. September 18-19, 2012. Port Aransas, TX.
+
+## Funded Projects
+
+`2022-2025`
+1.	_Co-Principal Investigator_. Texas General Land Office. $8,500,000. Texas Disaster Information System (TDIS).
+
+`2021-2023`
+2.	_Co-Principal Investigator_. Texas Governor’s Office. $1,150,000. Digital Risk Infrastructure Program.
+
+`2021-2026`
+3.	_Co-Principal Investigator_. Texas Division of Emergency Management. $1,450,017. Texas Natural Hazard Risk Assessment (Enhanced State Hazard Mitigation Plan). 
+
+`2021-2022`
+4.	_Senior Personnel_. National Science Foundation. $106,345. Community-Centric Pre-Disaster Mitigation with Unmanned Aerial Vehicles.
+
+`2020-2021`
+5.	_Senior Personnel_. Texas General Land Office. $1,499,995. Texas Disaster Information System.  
+
+`2019-2022`
+6.	_Contributing Author & Researcher_. Texas General Land Office. $2,000,000. Contract No. 19-181-000-B574. Measuring, Mapping, and Managing Flood Risk in Texas.
+
+`2018`
+7.	_Contributing Author & Researcher_. Texas General Land Office. $1,594,189. Evaluating the Effects of a Coastal Spine: National-Level Economic Ripples and Effects on Flood Insurance.
+
+`2017`
+8.	_Contributing Author & Researcher_. Texas General Land Office. $127,182. Identifying the Future Costs of Floods in the Houston-Galveston Area.	
+
+`2015-2020`
+9.	_Contributing Author & Researcher_. National Science Foundation. $3.6 million. NSF PIRE Coastal Flood Risk Reduction Program.
+
+`2014-2017`
+10.	_Contributing Author & Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
+
+`2014`
+11.	_Researcher_. West Galveston Island Property Owners Association. $50,000. An Integrated Assessment of Flood Risk Reduction on the West End of Galveston Island. 
+
+`2013-2015`
+12.	_Contributing Author & Researcher. Shell Center for Sustainability_. $350,000. The Stress Nexus of Coastlines: Population Development, Infrastructure Security, and Morphological Dynamics of the Upper Texas Gulf Coast.
+
+`2013`
+13.	_Researcher_. National Science Foundation. $27,230. Flood Risk Reduction Colloquium with Delft University, Netherlands. 
+
+`2011-2014`
+14.	_Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
+
+`2011-2013`
+15.	_Researcher_. National Science Foundation. $312,801. Examining the 100-year floodplain as a metric of risk, loss, and household adjustment. 
+
+`2011`
+16.	_Contributing Author & Researcher_. Texas Commission on Environmental Quality/Texas Sea Grant. $136,585. On-Site Sewage Facility Mitigation Optimization in Dickinson Bayou. 
 
 
 ## Grants and funding
