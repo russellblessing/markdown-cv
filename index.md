@@ -70,6 +70,7 @@ Urban and Regional Science Doctoral Departmental Scholarship
 ### Accepted/In press
 
 ### Peer-Reviewed Journal Articles
+
 1. Yuan, F., Lee, C. C., Mobley, W., Farahmand, H., Xu, Y., **Blessing, R.**, & Brody, S. D. (2023). Predicting road flooding risk with crowdsourced reports and fine-grained traffic data. *Computational Urban Science*, *3*(1), 15.
 
 2. Yuan, F., Farahmand, H., **Blessing, R. B.**, Brody, S., & Mostafavi, A. (2022). Unveiling Vulnerability and Inequality in Disrupted Access to Dialysis Centers During Urban Flooding. *arXiv preprint* arXiv:2208.09425.
@@ -101,6 +102,7 @@ Urban and Regional Science Doctoral Departmental Scholarship
 15. Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delineating the Reality of Flood Risk and Loss in Southeast Texas. *Natural Hazards Review*, *14*(2), 89-97.
 
 ### Books & Book Chapters
+
 1. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
 
 2. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
@@ -131,8 +133,9 @@ Urban and Regional Science Doctoral Departmental Scholarship
 
 9. Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
-## Presentation & Posters
+## Conferences
 
+### Proceedings
 *Conference Proceedings (*denotes speaker)
 
 1. Stephens, K. K., **Blessing, R. B.**, Tasuji, T., McGlone, M., Stearns, L. N., Lee, Y., & Brody, S. D. (2023). Investigating ways to better communicate flood risk: The tight coupling of perceived flood map usability and accuracy. Paper presented at the 2023 International Communication Association (ICA) Conference, Toronto, Canada.
@@ -154,6 +157,14 @@ Urban and Regional Science Doctoral Departmental Scholarship
 9. Brody, S. D., **Blessing, R. B.**, & Sebastian, A.* (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
 
 10. **Blessing, R. B.**, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
+
+### Posters
+
+1. Blaney, M., **Blessing, R. B.**, & Bedient, P. B. (2019). Analysis of the Flood Effects of Potential Land Use Scenarios on an Undeveloped Watershed in Houston, Texas. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
+
+2. Gori, A. & **Blessing, R. B.** (2017). Characterizing Urbanization Impacts on Floodplains Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. 2017 American Geophysical Union: Fall Meeting, New Orleans, LA.
+
+3. **Blessing, R. B.**, Makino, T., Doty, P., Brody, S. D., & Highfield, W. (2012). Examining the 100-Year Floodplain as a Metric of Risk, Loss, and Household Adjustment. 2012 NSF CMMI Engineering Research and Innovation Conference, "Engineering Transformations Through Partnerships," Boston, MA.
 
 
 ## Grants and funding
