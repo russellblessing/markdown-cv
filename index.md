@@ -100,6 +100,34 @@ Urban and Regional Science Doctoral Departmental Scholarship
 
 15. Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delineating the Reality of Flood Risk and Loss in Southeast Texas. *Natural Hazards Review*, *14*(2), 89-97.
 
+### Books & Book Chapters
+1. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
+
+2. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
+
+3. Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
+
+### Short Communications
+1. Blessing, R. B., & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
+
+### Technical Reports & Professional Projects
+1. Rainey, J., Pandian, K., Stearns, L., Atoba, K., Mobley, W., Highfield, W., **Blessing, R. B.**, & Brody, S. (2021). Using 311-Call Data to Measure Flood Risk and Impacts: the case of Harris County TX. Texas A&M University. College Station, Texas.
+
+2. Sharp, J. (2018). Eye of the Storm: Report of the Governor’s Commission to Rebuild Texas. Texas A&M University. College Station, Texas. Contributing Author.
+
+3. Brody, S. D., Highfield, W. E., **Blessing, R. B.**, Making, T., & Shepard, C. (2015). Evaluating the Effectiveness of Open Space in Reducing Flood Damage along the Gulf of Mexico Coast. The Nature Conservancy. Harpswell 10. Houston, TX.
+
+4. **Blessing, R. B.**, Wilson, M., Mobley, W., Atoba, K., & Brody, S. D. (2013). A Flood Risk Assessment of the San Jacinto River Waste Pit. Center for Texas Beaches & Shores. Texas A&M University at Galveston.
+
+5. **Blessing, R. B.**, Stiles, A., & Brody, S. D. (2012). A Spatial Approach to Assess Climate Change Vulnerability for Transit Assets. Report for Texas Transportation Institute, project on Transit Climate Change Adaptation Pilots for the Gulf Coast Region. Center for Texas Beaches and Shores, Texas A&M University at Galveston.
+
+6. **Blessing, R. B.**, Stiles, A., & Brody, S. D. (2012). Understanding the Implications of Climate Change on Transportation Systems within the Gulf of Mexico Coastal Region. Report for Texas Transportation Institute, project on Transit Climate Change Adaptation Pilots for the Gulf Coast Region. Center for Texas Beaches and Shores, Texas A&M University at Galveston.
+
+7. **Blessing, R. B.** (2011). Using GIS to Guide Environmental Management of Non-Point Source Pollution: Failing Septic Systems in the Dickinson Bayou Watershed. Master's thesis. Texas A&M University, College Station, TX.
+
+8. Landscape Architecture Foundation (LAF). (2010). Landscape Performance Series: An online set of resources to help designers, agencies, and advocates evaluate performance, show value and make the case for sustainable landscape solutions. Role: Assembled a library of facts and benefits of specific sustainable landscape solutions that can be queried on-line as an intern for the LAF.
+
+9. Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
 
 ## Grants and funding
