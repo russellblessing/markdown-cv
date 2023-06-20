@@ -51,6 +51,16 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
 `2010-2012`
 **Research Assistant**, *Department of Landscape Architecture & Urban Planning, Texas A&M University*, TX, USA.
 
+## Honors & Awards
+`2018`
+The Erma Lee & Luke Mooney Graduate Student Research Excellence Award
+
+`2017`
+Center for the Integration of Research, Teaching and Learning Associate - Fellow
+
+`2015`
+Urban and Regional Science Doctoral Departmental Scholarship 
+
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=rmxI87gAAAAJ&hl=en).
@@ -60,35 +70,36 @@ Institute for a Disaster Resilient Texas, Division of Research<br/>
 ### Accepted/In press
 
 ### Peer-Reviewed Journal Articles
-F. Yuan, C. C. Lee, W. Mobley, H. Farahmand, Y. Xu, **R. Blessing**, and S. D. Brody. Predicting road flooding risk with crowdsourced reports and fine-grained traffic data. *Computational Urban Science*, *3*(1):15, 2023.
+1. Yuan, F., Lee, C. C., Mobley, W., Farahmand, H., Xu, Y., **Blessing, R.**, & Brody, S. D. (2023). Predicting road flooding risk with crowdsourced reports and fine-grained traffic data. *Computational Urban Science*, *3*(1), 15.
 
-F. Yuan, H. Farahmand, **R. B. Blessing**, S. Brody, and A. Mostafavi. Unveiling Vulnerability and Inequality in Disrupted Access to Dialysis Centers During Urban Flooding. *arXiv preprint* arXiv:2208.09425, 2022.
+2. Yuan, F., Farahmand, H., **Blessing, R. B.**, Brody, S., & Mostafavi, A. (2022). Unveiling Vulnerability and Inequality in Disrupted Access to Dialysis Centers During Urban Flooding. *arXiv preprint* arXiv:2208.09425.
 
-F. Yuan, W. Mobley, H. Farahmand, Y. Xu, **R. B. Blessing**, A. Motafavi, and S. Brody. Predicting Road Flooding Risk with Machine Learning Approaches Using Crowdsourced Reports and Fine-grained Traffic Data. *arXiv* 2108.13265, 2021.
+3. Yuan, F., Mobley, W., Farahmand, H., Xu, Y., **Blessing, R. B.**, Motafavi, A., & Brody, S. (2021). Predicting Road Flooding Risk with Machine Learning Approaches Using Crowdsourced Reports and Fine-grained Traffic Data. *arXiv* 2108.13265.
 
-W. Mobley, A. Sebastian, **R. B. Blessing**, W. E. Highfield, L. Stearns, and S. D. Brody. Quantification of Continuous Flood Hazard using Random Forest Classification and Flood Insurance Claims at Large Spatial Scales: A Pilot Study in Southeast Texas. *Natural Hazards and Earth System Sciences Discussions*, 1-22, 2020.
+4. Mobley, W., Sebastian, A., **Blessing, R. B.**, Highfield, W. E., Stearns, L., & Brody, S. D. (2020). Quantification of Continuous Flood Hazard using Random Forest Classification and Flood Insurance Claims at Large Spatial Scales: A Pilot Study in Southeast Texas. *Natural Hazards and Earth System Sciences Discussions*, 1-22.
 
-A. Sebastian, A. Gori, **R. B. Blessing**, K. van der Wiel, and B. Bass. Disentangling the Impacts of Human and Environmental Change on Catchment Response During Hurricane Harvey. *Environmental Research Letters*, *14*(12):124023, 2019.
+5. Sebastian, A., Gori, A., **Blessing, R. B.**, van der Wiel, K., & Bass, B. (2019). Disentangling the Impacts of Human and Environmental Change on Catchment Response During Hurricane Harvey. *Environmental Research Letters*, *14*(12), 124023.
 
-**R. B. Blessing**, S. D. Brody, and W. E. Highfield. Valuing Floodplain Protection and Avoidance in a Coastal Watershed. *Disasters*, *43*(4):906-925, 2019.
+6. **Blessing, R. B.**, Brody, S. D., & Highfield, W. E. (2019). Valuing Floodplain Protection and Avoidance in a Coastal Watershed. *Disasters*, *43*(4), 906-925.
 
-A. Gori, **R. B. Blessing**, A. Juan, S. Brody, and P. B. Bedient. Characterizing Urbanization Impacts on Floodplain Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. *Journal of Hydrology*, *568*:82-95, 2019.
+7. Gori, A., **Blessing, R. B.**, Juan, A., Brody, S., & Bedient, P. B. (2019). Characterizing Urbanization Impacts on Floodplain Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. *Journal of Hydrology*, *568*, 82-95.
 
-S. D. Brody, A. Sebastian, **R. B. Blessing**, and P. Bedient. Case study results from southeast Houston, Texas: Identifying the impacts of residential location on flood risk and loss. *Journal of Flood Risk Management*, *11*:S110-S120, 2018.
+8. Brody, S. D., Sebastian, A., **Blessing, R. B.**, & Bedient, P. (2018). Case study results from southeast Houston, Texas: Identifying the impacts of residential location on flood risk and loss. *Journal of Flood Risk Management*, *11*, S110-S120.
 
-S. D. Brody, W. E. Highfield, **R. B. Blessing**, T. Makino, and C. Shepard. Evaluating the Effects of Open Space Configurations in Reducing Flood Damage along the Gulf of Mexico Coast. *Landscape & Urban Planning*, *167*:225-231, 2017.
+9. Brody, S. D., Highfield, W. E., **Blessing, R. B.**, Makino, T., & Shepard, C. (2017). Evaluating the Effects of Open Space Configurations in Reducing Flood Damage along the Gulf of Mexico Coast. *Landscape & Urban Planning*, *167*, 225-231.
 
-**R. B. Blessing**, A. Sebastian, and S. D. Brody. Flood Risk Delineation in the U.S.: How much loss are we capturing? *Natural Hazards Review*, *18*(3):04017002, 2017.
+10. **Blessing, R. B.**, Sebastian, A., & Brody, S. D. (2017). Flood Risk Delineation in the U.S.: How much loss are we capturing? *Natural Hazards Review*, *18*(3), 04017002.
 
-S. D. Brody, W. E. Highfield, M. Wilson, M. K. Lindell, and **R. B. Blessing**. Understanding the Motivations of Coastal Residents to Voluntarily Purchase Federal Flood Insurance. *Journal of Risk Research*, *58*(1):1-16, 2017.
+11. Brody, S. D., Highfield, W. E., Wilson, M., Lindell, M. K., & **Blessing, R. B.** (2017). Understanding the Motivations of Coastal Residents to Voluntarily Purchase Federal Flood Insurance. *Journal of Risk Research*, *58*(1), 1-16.
 
-S. D. Brody, W. E. Highfield, and **R. B. Blessing**. An Analysis of the Effects of Land Use and Land Cover on Flood Losses along the Gulf of Mexico Coast from 1999-2009. *Journal of the American Water Resources Association*, *51*(6):1556-1567, 2015.
+12. Brody, S. D., Highfield, W. E., & **Blessing, R. B.** (2015). An Analysis of the Effects of Land Use and Land Cover on Flood Losses along the Gulf of Mexico Coast from 1999-2009. *Journal of the American Water Resources Association*, *51*(6), 1556-1567.
 
-W. E. Highfield, S. D. Brody, and **R. B. Blessing**. Measuring Impact of Mitigation Activities on Flood Loss Reduction at the Parcel Level: The Case of the Clear Creek Watershed on the Upper Texas coast. *Natural Hazards*, *74*(2):687-704, 2014.
+13. Highfield, W. E., Brody, S. D., & **Blessing, R. B.** (2014). Measuring Impact of Mitigation Activities on Flood Loss Reduction at the Parcel Level: The Case of the Clear Creek Watershed on the Upper Texas coast. *Natural Hazards*, *74*(2), 687-704.
 
-S. D. Brody, **R. B. Blessing**, A. Sebastian, and P. B. Bedient. Examining the Impact of Land Use/Land Cover Characteristics on Flood Loss. *Journal of Environmental Management*, *57*(8):1-14, 2013.
+14. Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2013). Examining the Impact of Land Use/Land Cover Characteristics on Flood Loss. *Journal of Environmental Management*, *57*(8), 1-14.
 
-S. D. Brody, **R. B. Blessing**, A. Sebastian, and P. B. Bedient. Delineating the Reality of Flood Risk and Loss in Southeast Texas. *Natural Hazards Review*, *14*(2):89-97, 2012.
+15. Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delineating the Reality of Flood Risk and Loss in Southeast Texas. *Natural Hazards Review*, *14*(2), 89-97.
+
 
 
 ## Grants and funding
