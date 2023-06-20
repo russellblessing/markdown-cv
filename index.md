@@ -182,52 +182,53 @@ Urban and Regional Science Doctoral Departmental Scholarship
 ## Funded Projects
 
 `2022-2025`
-1.	_Co-Principal Investigator_. Texas General Land Office. $8,500,000. Texas Disaster Information System (TDIS).
+_Co-Principal Investigator_. Texas General Land Office. $8,500,000. Texas Disaster Information System (TDIS).
 
 `2021-2023`
-2.	_Co-Principal Investigator_. Texas Governor’s Office. $1,150,000. Digital Risk Infrastructure Program.
+_Co-Principal Investigator_. Texas Governor’s Office. $1,150,000. Digital Risk Infrastructure Program.
 
 `2021-2026`
-3.	_Co-Principal Investigator_. Texas Division of Emergency Management. $1,450,017. Texas Natural Hazard Risk Assessment (Enhanced State Hazard Mitigation Plan). 
+_Co-Principal Investigator_. Texas Division of Emergency Management. $1,450,017. Texas Natural Hazard Risk Assessment (Enhanced State Hazard Mitigation Plan).
 
 `2021-2022`
-4.	_Senior Personnel_. National Science Foundation. $106,345. Community-Centric Pre-Disaster Mitigation with Unmanned Aerial Vehicles.
+_Senior Personnel_. National Science Foundation. $106,345. Community-Centric Pre-Disaster Mitigation with Unmanned Aerial Vehicles.
 
 `2020-2021`
-5.	_Senior Personnel_. Texas General Land Office. $1,499,995. Texas Disaster Information System.  
+_Senior Personnel_. Texas General Land Office. $1,499,995. Texas Disaster Information System.
 
 `2019-2022`
-6.	_Contributing Author & Researcher_. Texas General Land Office. $2,000,000. Contract No. 19-181-000-B574. Measuring, Mapping, and Managing Flood Risk in Texas.
+_Contributing Author & Researcher_. Texas General Land Office. $2,000,000. Contract No. 19-181-000-B574. Measuring, Mapping, and Managing Flood Risk in Texas.
 
 `2018`
-7.	_Contributing Author & Researcher_. Texas General Land Office. $1,594,189. Evaluating the Effects of a Coastal Spine: National-Level Economic Ripples and Effects on Flood Insurance.
+_Contributing Author & Researcher_. Texas General Land Office. $1,594,189. Evaluating the Effects of a Coastal Spine: National-Level Economic Ripples and Effects on Flood Insurance.
 
 `2017`
-8.	_Contributing Author & Researcher_. Texas General Land Office. $127,182. Identifying the Future Costs of Floods in the Houston-Galveston Area.	
+_Contributing Author & Researcher_. Texas General Land Office. $127,182. Identifying the Future Costs of Floods in the Houston-Galveston Area.
 
 `2015-2020`
-9.	_Contributing Author & Researcher_. National Science Foundation. $3.6 million. NSF PIRE Coastal Flood Risk Reduction Program.
+_Contributing Author & Researcher_. National Science Foundation. $3.6 million. NSF PIRE Coastal Flood Risk Reduction Program.
 
 `2014-2017`
-10.	_Contributing Author & Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
+_Contributing Author & Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
 
 `2014`
-11.	_Researcher_. West Galveston Island Property Owners Association. $50,000. An Integrated Assessment of Flood Risk Reduction on the West End of Galveston Island. 
+_Researcher_. West Galveston Island Property Owners Association. $50,000. An Integrated Assessment of Flood Risk Reduction on the West End of Galveston Island.
 
 `2013-2015`
-12.	_Contributing Author & Researcher. Shell Center for Sustainability_. $350,000. The Stress Nexus of Coastlines: Population Development, Infrastructure Security, and Morphological Dynamics of the Upper Texas Gulf Coast.
+_Contributing Author & Researcher. Shell Center for Sustainability_. $350,000. The Stress Nexus of Coastlines: Population Development, Infrastructure Security, and Morphological Dynamics of the Upper Texas Gulf Coast.
 
 `2013`
-13.	_Researcher_. National Science Foundation. $27,230. Flood Risk Reduction Colloquium with Delft University, Netherlands. 
+_Researcher_. National Science Foundation. $27,230. Flood Risk Reduction Colloquium with Delft University, Netherlands.
 
 `2011-2014`
-14.	_Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
+_Contributing Author & Researcher_. Houston Endowment. $3.2 million. Severe Storm Prediction, Education, and Evacuation from Disasters (SSPEED) Center.
 
 `2011-2013`
-15.	_Researcher_. National Science Foundation. $312,801. Examining the 100-year floodplain as a metric of risk, loss, and household adjustment. 
+_Researcher_. National Science Foundation. $312,801. Examining the 100-year floodplain as a metric of risk, loss, and household adjustment.
 
 `2011`
-16.	_Contributing Author & Researcher_. Texas Commission on Environmental Quality/Texas Sea Grant. $136,585. On-Site Sewage Facility Mitigation Optimization in Dickinson Bayou. 
+_Contributing Author & Researcher_. Texas Commission on Environmental Quality/Texas Sea Grant. $136,585. On-Site Sewage Facility Mitigation Optimization in Dickinson Bayou.
+
 
 
 ## Grants and funding
