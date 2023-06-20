@@ -111,7 +111,7 @@ Urban and Regional Science Doctoral Departmental Scholarship
 
 ### Short Communications
 
-1. **Blessing, R. B.**, & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
+**Blessing, R. B.**, & Sebastian, A. (2018). Out of Bounds: Rethinking U.S. Flood Risk Delineation. *EARTH Magazine*. [Link](https://tinyurl.com/yaxf46eq).
 
 ### Technical Reports & Professional Projects
 
@@ -229,6 +229,26 @@ _Researcher_. National Science Foundation. $312,801. Examining the 100-year floo
 `2011`
 _Contributing Author & Researcher_. Texas Commission on Environmental Quality/Texas Sea Grant. $136,585. On-Site Sewage Facility Mitigation Optimization in Dickinson Bayou.
 
+## Teaching Experience
+###Lecturer of Record
+`2014`
+URPN 460: Sustainable Communities; Evaluation Score: 4.62 	                                 
+
+###Guest Lecturer & Teaching Assistant 
+`2023`
+PA 383C:	Policy Responses to Natural Disasters (University of Texas)
+
+`2016-2023`
+PLAN 641:	Environmental Planning (Texas A&M University at Galveston)
+
+`2016-2023`
+PLAN 642:	Coastal Resiliency & Sustainability (Texas A&M University at Galveston)
+
+`2016`
+WFES 405:	Urban Wildlife & Fisheries (Texas A&M University)
+
+`2016`
+PLAN 202:	Building Better Cities (Texas A&M University) 
 
 
 ## Grants and funding
