@@ -160,7 +160,12 @@ a {
 }
 
 table {
-    border-collapse: collapse;
+    	border-collapse: collapse;
+	position: relative;
+	left: 25%;
+	width: 75%;
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
 }
 
 table, th, td {
