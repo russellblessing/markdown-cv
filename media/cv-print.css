@@ -175,10 +175,6 @@ th {
   background-color: lightgray;
 }
 
-th, td{
-  margin-left: 60px;
-}
-
 a:hover {
 	color:#39f
 }
