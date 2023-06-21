@@ -160,15 +160,18 @@ a {
 }
 
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
-	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+th {
+  background-color: lightgray;
+}
+
+th, td{
+  padding: 5px;
 }
 
 a:hover {
