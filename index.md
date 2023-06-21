@@ -255,7 +255,11 @@ PLAN 202:	Building Better Cities (Texas A&M University)
 ### Manuscript Reviewer 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-|- Disasters <br> - Hydrology & Earth System Sciences <br> - Journal of Environmental Management       | - Natural Hazards Review <br> - Water  |
+|- Disasters <br /> - Hydrology & Earth System Sciences <br /> - Journal of Environmental Management       | - Natural Hazards Review <br /> - Water  |
+
+| Header 1  | Header 2 |
+| --------  | -------- |
+| data      | Some long data that <br /> spans multiple lines |
 
 <br/>Last updated: June 2023<br/><br/>
 
