@@ -166,7 +166,7 @@ th {
 }
 
 th, td{
-  left: 60px;
+  margin-left: 60px;
 }
 
 a {
