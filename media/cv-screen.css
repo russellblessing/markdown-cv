@@ -168,11 +168,6 @@ th {
   background-color: lightgray;
 }
 
-th, td{
-  margin-left: 60px;
-}
-
-
 a {
 	color: inherit;
 	/*text-decoration:none*/
