@@ -236,7 +236,7 @@ _Contributing Author & Researcher_. Texas Commission on Environmental Quality/Te
 `2014`
 URPN 460: Sustainable Communities; Evaluation Score: 4.62 	                                 
 
-### Guest Lecturer & Teaching Assistant 
+### Guest Lecturer 
 `2023`
 PA 383C:	Policy Responses to Natural Disasters (University of Texas)
 
@@ -257,6 +257,8 @@ PLAN 202:	Building Better Cities (Texas A&M University)
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 |- Disasters <br /> - Hydrology & Earth System Sciences <br /> - Journal of Environmental Management       | - Natural Hazards Review <br /> - Water  |
+
+
 
 | Header 1  | Header 2 |
 | --------  | -------- |
