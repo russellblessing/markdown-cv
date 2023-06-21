@@ -254,9 +254,9 @@ PLAN 202:	Building Better Cities (Texas A&M University)
 
 ### Manuscript Reviewer 
 
-| Header 1  | Header 2 | Header 3 | 
-| --------  | -------- | -------- |
-| data      | Some long data that <br /> spans multiple lines | Ruffy |
+| Header 1  | Header 2 |
+| --------  | -------- | 
+| data      | Some long data that <br /> spans multiple lines |
 
 <br/>Last updated: June 2023<br/><br/>
 
