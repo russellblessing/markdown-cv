@@ -229,7 +229,7 @@ _Researcher_. National Science Foundation. $312,801. Examining the 100-year floo
 `2011`
 _Contributing Author & Researcher_. Texas Commission on Environmental Quality/Texas Sea Grant. $136,585. On-Site Sewage Facility Mitigation Optimization in Dickinson Bayou.
 
-## Teaching Experience
+## Teaching Experience & Professional Service
 
 ### Lecturer of Record
 
@@ -252,7 +252,9 @@ WFES 405:	Urban Wildlife & Fisheries (Texas A&M University)
 `2016`
 PLAN 202:	Building Better Cities (Texas A&M University) 
 
+### Manuscript Reviewer 
 
+| - Disasters <br> - Hydrology & Earth System Sciences <br> - Journal of Environmental Management | - Natural Hazards Review <br> - Water |
 
 <br/>Last updated: June 2023<br/><br/>
 
