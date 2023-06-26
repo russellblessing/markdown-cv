@@ -121,11 +121,11 @@ Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delin
 
 ### Books & Book Chapters
 
-1. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
+Brody, S., Highfield, W. E., & Blessing, R. B. (2022). Understanding the impacts of the built environment on flood loss. In *Coastal Flood Risk Reduction* (pp. 167-176). Elsevier.
 
-2. Brody, S., Highfield, W. E., & Blessing, R. B. (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
+Brody, S., Highfield, W. E., & Blessing, R. B. (2022). The role of insurance in facilitating economic recovery from floods. In *Coastal Flood Risk Reduction* (pp. 109-118). Elsevier.
 
-3. Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
+Mobley, W., & Blessing, R. B. (2022). Using machine learning to predict flood hazards based on historic damage. In *Coastal Flood Risk Reduction* (pp. 61-75). Elsevier.
 
 ### Short Communications
 
@@ -133,69 +133,69 @@ Brody, S. D., **Blessing, R. B.**, Sebastian, A., & Bedient, P. B. (2012). Delin
 
 ### Technical Reports & Professional Projects
 
-1. Rainey, J., Pandian, K., Stearns, L., Atoba, K., Mobley, W., Highfield, W., **Blessing, R. B.**, & Brody, S. (2021). Using 311-Call Data to Measure Flood Risk and Impacts: the case of Harris County TX. Texas A&M University. College Station, Texas.
+Rainey, J., Pandian, K., Stearns, L., Atoba, K., Mobley, W., Highfield, W., **Blessing, R. B.**, & Brody, S. (2021). Using 311-Call Data to Measure Flood Risk and Impacts: the case of Harris County TX. Texas A&M University. College Station, Texas.
 
-2. Sharp, J. (2018). Eye of the Storm: Report of the Governor’s Commission to Rebuild Texas. Texas A&M University. College Station, Texas. Contributing Author.
+Sharp, J. (2018). Eye of the Storm: Report of the Governor’s Commission to Rebuild Texas. Texas A&M University. College Station, Texas. Contributing Author.
 
-3. Brody, S. D., Highfield, W. E., **Blessing, R. B.**, Making, T., & Shepard, C. (2015). Evaluating the Effectiveness of Open Space in Reducing Flood Damage along the Gulf of Mexico Coast. The Nature Conservancy. Harpswell 10. Houston, TX.
+Brody, S. D., Highfield, W. E., **Blessing, R. B.**, Making, T., & Shepard, C. (2015). Evaluating the Effectiveness of Open Space in Reducing Flood Damage along the Gulf of Mexico Coast. The Nature Conservancy. Harpswell 10. Houston, TX.
 
-4. **Blessing, R. B.**, Wilson, M., Mobley, W., Atoba, K., & Brody, S. D. (2013). A Flood Risk Assessment of the San Jacinto River Waste Pit. Center for Texas Beaches & Shores. Texas A&M University at Galveston.
+**Blessing, R. B.**, Wilson, M., Mobley, W., Atoba, K., & Brody, S. D. (2013). A Flood Risk Assessment of the San Jacinto River Waste Pit. Center for Texas Beaches & Shores. Texas A&M University at Galveston.
 
 5. **Blessing, R. B.**, Stiles, A., & Brody, S. D. (2012). A Spatial Approach to Assess Climate Change Vulnerability for Transit Assets. Report for Texas Transportation Institute, project on Transit Climate Change Adaptation Pilots for the Gulf Coast Region. Center for Texas Beaches and Shores, Texas A&M University at Galveston.
 
-6. **Blessing, R. B.**, Stiles, A., & Brody, S. D. (2012). Understanding the Implications of Climate Change on Transportation Systems within the Gulf of Mexico Coastal Region. Report for Texas Transportation Institute, project on Transit Climate Change Adaptation Pilots for the Gulf Coast Region. Center for Texas Beaches and Shores, Texas A&M University at Galveston.
+**Blessing, R. B.**, Stiles, A., & Brody, S. D. (2012). Understanding the Implications of Climate Change on Transportation Systems within the Gulf of Mexico Coastal Region. Report for Texas Transportation Institute, project on Transit Climate Change Adaptation Pilots for the Gulf Coast Region. Center for Texas Beaches and Shores, Texas A&M University at Galveston.
 
-7. **Blessing, R. B.** (2011). Using GIS to Guide Environmental Management of Non-Point Source Pollution: Failing Septic Systems in the Dickinson Bayou Watershed. Master's thesis. Texas A&M University, College Station, TX.
+**Blessing, R. B.** (2011). Using GIS to Guide Environmental Management of Non-Point Source Pollution: Failing Septic Systems in the Dickinson Bayou Watershed. Master's thesis. Texas A&M University, College Station, TX.
 
-8. Landscape Architecture Foundation (LAF). (2010). Landscape Performance Series: An online set of resources to help designers, agencies, and advocates evaluate performance, show value and make the case for sustainable landscape solutions. Role: Assembled a library of facts and benefits of specific sustainable landscape solutions that can be queried on-line as an intern for the LAF.
+Landscape Architecture Foundation (LAF). (2010). Landscape Performance Series: An online set of resources to help designers, agencies, and advocates evaluate performance, show value and make the case for sustainable landscape solutions. Role: Assembled a library of facts and benefits of specific sustainable landscape solutions that can be queried on-line as an intern for the LAF.
 
-9. Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
+Neuman, M., **Blessing, R. B.**, Anderson-Wade, H., & Quaium, R. (2010). Sustainability Audit of the Tampa and Hillsborough, Florida Comprehensive Plans. Research Assistantship Deliverable. Department of Landscape Architecture and Urban Planning. College Station, TX.
 
 ## Conference activity
 
 ### Proceedings
 *Conference Proceedings (*denotes speaker)
 
-1. Stephens, K. K., **Blessing, R. B.**, Tasuji, T., McGlone, M., Stearns, L. N., Lee, Y., & Brody, S. D. (2023). Investigating ways to better communicate flood risk: The tight coupling of perceived flood map usability and accuracy. Paper presented at the 2023 International Communication Association (ICA) Conference, Toronto, Canada.
+Stephens, K. K., **Blessing, R. B.**, Tasuji, T., McGlone, M., Stearns, L. N., Lee, Y., & Brody, S. D. (2023). Investigating ways to better communicate flood risk: The tight coupling of perceived flood map usability and accuracy. Paper presented at the 2023 International Communication Association (ICA) Conference, Toronto, Canada.
 
-2. **Blessing, R. B.** (2022). Measuring, Mapping, and Managing Flood Risk. 2022 Texas Water Conservation Association Annual Convention, Fort Worth, TX.
+**Blessing, R. B.** (2022). Measuring, Mapping, and Managing Flood Risk. 2022 Texas Water Conservation Association Annual Convention, Fort Worth, TX.
 
-3. Mobley, W.*, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
+Mobley, W.*, Sebastian, A., & **Blessing, R. B.** (2019). Random Forest Classification for Flood Hazard Mapping at Large Spatial Scales. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
 
-4. **Blessing, R. B.**, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
+**Blessing, R. B.**, Sebastian, A., Highfield, W., & Brody, S. D. (2018). Measuring, Mapping and Managing Urban Flood Risk: A Pilot Program in Southeast Texas. 2018 American Geophysical Union: Fall Meeting, Washington, DC.
 
-5. Brody, S. D*., **Blessing, R. B.**, & Highfield, W. E.* (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
+Brody, S. D*., **Blessing, R. B.**, & Highfield, W. E.* (2017). Risk, Mitigation, and Planning: Lessons from Flooding in the Houston Area. 2017 Association of State Floodplain Managers Annual National conference, Kansas City, MO.
 
-6. Sebastian, A.*, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
+Sebastian, A.*, **Blessing, R. B.**, & Brody, S. D. (2016). Flood Risk Delineation in the U.S.: How much loss are we capturing? 2016 SSPEED Avoiding Disasters Conference: How to Reduce Impacts from the Next Big Storm, Houston, TX.
 
-7. Brody, S. D.*, & **Blessing, R. B.** (2015). Examining Flood Risk, Loss, and Management for the Clear Creek Watershed in Southeast Texas: Lessons Learned for Developing Resilient Coastal Communities. 2015 World Environmental & Water Resources Congress, “Floods, Droughts, and Ecosystems: Managing Our Resources Despite Growing Demand and Diminishing Funds,” Austin, TX.
+Brody, S. D.*, & **Blessing, R. B.** (2015). Examining Flood Risk, Loss, and Management for the Clear Creek Watershed in Southeast Texas: Lessons Learned for Developing Resilient Coastal Communities. 2015 World Environmental & Water Resources Congress, “Floods, Droughts, and Ecosystems: Managing Our Resources Despite Growing Demand and Diminishing Funds,” Austin, TX.
 
-8. Sebastian, A.*, Brody, S. D., **Blessing, R. B.**, & Bedient, P. B. (2014). Evaluating the 100-year floodplain as an indicator of flood loss. 2014 World Environmental and Water Resources Congress, Portland, OR.
+Sebastian, A.*, Brody, S. D., **Blessing, R. B.**, & Bedient, P. B. (2014). Evaluating the 100-year floodplain as an indicator of flood loss. 2014 World Environmental and Water Resources Congress, Portland, OR.
 
-9. Brody, S. D., **Blessing, R. B.**, & Sebastian, A.* (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
+Brody, S. D., **Blessing, R. B.**, & Sebastian, A.* (2013). Predicting Land Use/Land Cover Change in Coastal Texas: Assessing Hazard Resiliency in Freeport, TX. 2013 APA Texas Chapter State Planning Conference, Galveston, TX.
 
-10. **Blessing, R. B.**, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
+**Blessing, R. B.**, Brody, S. D., Sebastian, A., & Bedient, P. B. (2012). Identifying Flood Risk and Vulnerability: Assessment of the Clear Creek Watershed. 2012 Severe Storm Prediction, Education, and Evacuation from Disasters Center Conference: Gulf Coast Hurricanes: Mitigation and Response, Houston, TX.
 
 ### Posters
 
-1. Blaney, M., **Blessing, R. B.**, & Bedient, P. B. (2019). Analysis of the Flood Effects of Potential Land Use Scenarios on an Undeveloped Watershed in Houston, Texas. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
+Blaney, M., **Blessing, R. B.**, & Bedient, P. B. (2019). Analysis of the Flood Effects of Potential Land Use Scenarios on an Undeveloped Watershed in Houston, Texas. 2019 American Geophysical Union: Fall Meeting, San Francisco, CA.
 
-2. Gori, A. & **Blessing, R. B.** (2017). Characterizing Urbanization Impacts on Floodplains Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. 2017 American Geophysical Union: Fall Meeting, New Orleans, LA.
+Gori, A. & **Blessing, R. B.** (2017). Characterizing Urbanization Impacts on Floodplains Through Integrated Land Use, Hydrologic, and Hydraulic Modeling. 2017 American Geophysical Union: Fall Meeting, New Orleans, LA.
 
-3. **Blessing, R. B.**, Makino, T., Doty, P., Brody, S. D., & Highfield, W. (2012). Examining the 100-Year Floodplain as a Metric of Risk, Loss, and Household Adjustment. 2012 NSF CMMI Engineering Research and Innovation Conference, "Engineering Transformations Through Partnerships," Boston, MA.
+**Blessing, R. B.**, Makino, T., Doty, P., Brody, S. D., & Highfield, W. (2012). Examining the 100-Year Floodplain as a Metric of Risk, Loss, and Household Adjustment. 2012 NSF CMMI Engineering Research and Innovation Conference, "Engineering Transformations Through Partnerships," Boston, MA.
 
 ## Expert Panels & Workshops
-1.	_Designing Comprehensive Solutions to Multiple Flooding Threats_. Institute for a Disaster Resilient Texas Spring Symposium. April 26, 2023. Galveston, TX.
+_Designing Comprehensive Solutions to Multiple Flooding Threats_. Institute for a Disaster Resilient Texas Spring Symposium. April 26, 2023. Galveston, TX.
 
-2.	_Recurring, Costly, and Avoidable – Changing Responses to Houston Flooding_. American Associated for the Advancement of Science. “Advancing Science – Discovery to Application”. February 15-19, 2018, Austin, TX.
+_Recurring, Costly, and Avoidable – Changing Responses to Houston Flooding_. American Associated for the Advancement of Science. “Advancing Science – Discovery to Application”. February 15-19, 2018, Austin, TX.
 
-3.	_Framework for Flood Risk Reduction in the Galveston Bay Area_. Delft University of Technology & Texas A&M University at Galveston. December 14-16, 2014. Galveston, TX.  
+_Framework for Flood Risk Reduction in the Galveston Bay Area_. Delft University of Technology & Texas A&M University at Galveston. December 14-16, 2014. Galveston, TX.  
 
-4. 	_Influence of Development Patterns on Flood Damages_. General Land Office Coastal Resiliency Forum. December 12, 2014.  Nassau Bay, TX.
+_Influence of Development Patterns on Flood Damages_. General Land Office Coastal Resiliency Forum. December 12, 2014.  Nassau Bay, TX.
 
-5.	_Flood Risk Reduction Colloquium_.  Delft University of Technology. July 22-25, 2013. Delft, Netherlands.
+_Flood Risk Reduction Colloquium_.  Delft University of Technology. July 22-25, 2013. Delft, Netherlands.
 
-6.	_Adaptation to Sea Level Rise: Minimizing Risk to the Built, Natural and Economic Environments along the Texas Gulf Coast_. The University of Texas Marine Science Institute. September 18-19, 2012. Port Aransas, TX.
+_Adaptation to Sea Level Rise: Minimizing Risk to the Built, Natural and Economic Environments along the Texas Gulf Coast_. The University of Texas Marine Science Institute. September 18-19, 2012. Port Aransas, TX.
 
 ## Funded Projects
 
